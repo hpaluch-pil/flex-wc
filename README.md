@@ -19,6 +19,15 @@ Tested under Debian10:
 sudo apt-get install git make gcc flex
 ```
 
+Clone this project using:
+
+```bash
+mkdir ~/projects
+cd ~/projects
+git clone https://github.com/hpaluch-pil/flex-wc.git
+cd flex-wc
+```
+
 Build using:
 
 ```bash
