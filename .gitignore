@@ -1,0 +1,11 @@
+# vim backup files
+*~
+*.tmp
+*.swp
+*.bak
+
+# build files
+flex-wc
+flex-wc.c
+*.o
+
