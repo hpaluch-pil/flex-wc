@@ -16,7 +16,7 @@ However there is no original source mentioned. So license of this file is unclea
 Tested under Debian10:
 
 ```bash
-sudo apt-get install git make gcc flex
+sudo apt-get install git make gcc flex libfl2
 ```
 
 Clone this project using:
