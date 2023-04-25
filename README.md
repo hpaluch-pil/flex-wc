@@ -19,6 +19,11 @@ Tested under Debian10:
 sudo apt-get install git make gcc flex libfl2
 ```
 
+Or under Fedora 38:
+```bash
+sudo dnf install git-core gcc make flex libfl-devel
+```
+
 Clone this project using:
 
 ```bash
